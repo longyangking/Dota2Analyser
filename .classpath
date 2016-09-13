@@ -4,5 +4,6 @@
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/HttpClient"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Apache Johnzon"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Javax Json"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
