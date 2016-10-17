@@ -2,6 +2,4 @@
 Dota2 game data analysis
 
 ##Dependency
-+ HttpClient
-+ Apache Johnzon
-+ Java EE (Javax.json)
+working...
